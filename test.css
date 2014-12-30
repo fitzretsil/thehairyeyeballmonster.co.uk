@@ -1,0 +1,126 @@
+﻿body {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	background-color: #EFEFEF;
+	width: 1300px;
+}
+
+body img {
+	border-style: none;
+	border-color: inherit;
+	border-width: 0px;
+	text-decoration: none;
+	height: 677px;
+}
+
+#container {
+	background-color: #FFFFFF;
+	width: 70%;
+	margin: 10px auto 10px auto;
+	padding: 10px;
+}
+
+#masthead {
+	height: 100px;
+	background-color: #FDEEEE;
+	background-repeat: no-repeat;
+	background-position: center;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#logo {
+	float: left;
+	width: 270px;
+	height: 76px;
+	margin: 0px;
+	padding: 15px 0px 0px 30px;
+}
+
+#logo h1 {
+	margin: 0;
+	padding: 0;
+	font: normal 36px Georgia, "Times New Roman", Times, serif;
+}
+
+#logo h2 {
+	margin: -2px 0 0 0;
+	padding: 0;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-size: 10px;
+	font-weight: bold;
+	color: #444444;
+}
+
+#logo h2 a {
+	color: #9AA9B1;
+}
+
+#logo a {
+	text-decoration: none;
+	color: #3C84B3;
+}
+
+#top-nav {
+	height: 100px;
+	border-top: solid medium #000000;
+	border-bottom: solid medium #006600;
+	background-color: #FFFFFF;
+	border-top-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+	border-top-width: thin;
+	border-bottom-width: thin;
+}
+
+#left-nav {
+	border-width: thin;
+	width: 250px;
+	float: left;
+	background-color: #FFFFFF;
+	margin: 20px 0px 10px 0px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: small;
+	padding-right: 10px;
+	padding-left: 10px;
+	color: #000000;
+}
+
+#left-nav h2 {
+	margin: 0px;
+	padding: 0px;
+	border-bottom: 2px solid #EBEBEB;
+	font-size: 160%;
+	font-weight: normal;
+	color: #3C84B3;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#main-content {
+	margin: 20px auto 10px 200px;
+	position: relative;
+	width: auto;
+	padding-left: 75px;
+	text-indent: 20px;
+}
+
+#footer {
+	clear: both;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #99CCFF;
+}
+
+#footer p {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-size: 75%;
+}
+
+.auto-style2 {
+	font-size: medium;
+	text-align: center;
+}
+
+.auto-style4 {
+	font-size: small;
+}
